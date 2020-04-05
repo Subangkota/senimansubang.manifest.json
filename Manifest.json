@@ -1,0 +1,38 @@
+{
+  "name": "Seniman Subang",
+  "short_name": "SenimanJabar",
+  "start_url": "https://www.senimansubang.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Komunitas Pemusik Jalanan (KPJ) Adalah Situs Web Seniman Subangkota Yang Melestarikan Kesenian Ditanah Pasundan Dan Dibuat Hanya Untuk Menghibur Dalam Bentuk Website",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-GGUbdGpVcJg/Xokh6pzDf-I/AAAAAAAAAEo/BoVKGcQzg_gSt6dhXfWGYr1Hlw2h3OWdQCLcBGAsYHQ/s48/logo-seniman-subang-blogspot-com.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GGUbdGpVcJg/Xokh6pzDf-I/AAAAAAAAAEo/BoVKGcQzg_gSt6dhXfWGYr1Hlw2h3OWdQCLcBGAsYHQ/s72/logo-seniman-subang-blogspot-com.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GGUbdGpVcJg/Xokh6pzDf-I/AAAAAAAAAEo/BoVKGcQzg_gSt6dhXfWGYr1Hlw2h3OWdQCLcBGAsYHQ/s96/logo-seniman-subang-blogspot-com.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GGUbdGpVcJg/Xokh6pzDf-I/AAAAAAAAAEo/BoVKGcQzg_gSt6dhXfWGYr1Hlw2h3OWdQCLcBGAsYHQ/s144/logo-seniman-subang-blogspot-com.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GGUbdGpVcJg/Xokh6pzDf-I/AAAAAAAAAEo/BoVKGcQzg_gSt6dhXfWGYr1Hlw2h3OWdQCLcBGAsYHQ/s168/logo-seniman-subang-blogspot-com.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GGUbdGpVcJg/Xokh6pzDf-I/AAAAAAAAAEo/BoVKGcQzg_gSt6dhXfWGYr1Hlw2h3OWdQCLcBGAsYHQ/s192/logo-seniman-subang-blogspot-com.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-GGUbdGpVcJg/Xokh6pzDf-I/AAAAAAAAAEo/BoVKGcQzg_gSt6dhXfWGYr1Hlw2h3OWdQCLcBGAsYHQ/s512/logo-seniman-subang-blogspot-com.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
